@@ -18,7 +18,12 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
   <!-- Tecnologias e Linguagens que trabalho -->
 
 <div style="display: inline_block" align="center">
+
+  <!-- OS -->
   
+  <img align="center" alt="Kevin-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
+  <img align="center" alt="Kevin-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
+
   <!-- Linguagens de Programação -->
   
   <img align="center" alt="Kevin-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
@@ -64,7 +69,7 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
   <!-- <img align="center" alt="Kevin-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"> -->
   <!-- <img align="center" alt="Kevin-Packer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg"> -->
   <!-- <img align="center" alt="Kevin-Vault" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/vault-original.svg"> -->
-   
+     
 </div>
 
 <!--
