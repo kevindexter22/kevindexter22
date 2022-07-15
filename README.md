@@ -1,5 +1,7 @@
-<!-- <h1 align="center">Seja Bem Vindo!</h1> -->
+<h1 align="center">Seja Bem Vindo!</h1>
 
+<p align="center">Sou estudante de Engenharia da Computação pela UNIVESP (Universidade Virtual do Estado de São Paulo).<br>
+Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa de telecomunicações e <br>estou sempre em busca de novos aprendizados.</p><br>
 
 <!-- Commit e Linguagens mais Usadas -->
 
@@ -11,14 +13,20 @@
   
   <!-- Tecnologias e Linguagens que trabalho -->
 
-<!--
-
 <div style="display: inline_block" align="center"><br>
   <h5>Linguagens de Programação: </h5>
-  <img align="center" alt="Kevin-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Kevin-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
+   <!-- <img align="center" alt="Kevin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
+   <!-- <img align="center" alt="Kevin-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original-wordmark.svg"> -->
+   <!-- <img align="center" alt="Kevin-TS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"> -->
+   <img align="center" alt="Kevin-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+   <img align="center" alt="Kevin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+   <img align="center" alt="Kevin-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
+   <img align="center" alt="Kevin-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
 
-  -->
+
+
 <!--
 **kevindexter22/kevindexter22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
