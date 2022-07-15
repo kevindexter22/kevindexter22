@@ -1,7 +1,7 @@
 <h1 align="center">Seja Bem Vindo!</h1>
 
 <p align="center">Sou estudante de Engenharia da Computação pela UNIVESP (Universidade Virtual do Estado de São Paulo).<br>
-Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa de telecomunicações e <br>estou sempre em busca de novos aprendizados.</p><br>
+Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa de telecomunicações e <br>estou sempre em busca de obter novos conhecimentos.</p><br>
 
 <!-- Commit e Linguagens mais Usadas -->
 
