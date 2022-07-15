@@ -26,9 +26,19 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
    <img align="center" alt="Kevin-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Kevin-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   
+  <!-- Frameworks -->
+  
+  <img align="center" alt="Kevin-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
+  
+  <!-- Banco de Dados -->
+  
+  <img align="center" alt="Kevin-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
+  
   <!-- Conteinerização -->
   
-  
+  <img align="center" alt="Kevin-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <!-- <img align="center" alt="Kevin-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"> -->
+  <!-- <img align="center" alt="Kevin-Podman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg"> -->
   
 </div>
 
