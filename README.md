@@ -11,9 +11,13 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindexter22&layout=compact&langs_count=10&theme=dark"/>
 </div>
   
+  ## 
+  
+  <h3 align="center">Conhecimentos:</h3>  
+  
   <!-- Tecnologias e Linguagens que trabalho -->
 
-<div style="display: inline_block" align="center"><br>
+<div style="display: inline_block" align="center">
   
   <!-- Linguagens de Programação -->
   
@@ -63,6 +67,8 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
    
 </div>
 
+##
+  
 
 
 <!--
