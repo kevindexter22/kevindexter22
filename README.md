@@ -38,6 +38,8 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
   
   <img align="center" alt="Kevin-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <!-- <img align="center" alt="Kevin-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"> -->
+  <!-- <img align="center" alt="Kevin-Istio" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/istio-original.svg"> -->
+  <!-- <img align="center" alt="Kevin-Nomad" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/nomad-original.svg"> -->
   <!-- <img align="center" alt="Kevin-Podman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg"> -->
   
    <!-- Monitoramento -->
@@ -45,7 +47,20 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
   <img align="center" alt="Kevin-Zabbix" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/zabbix-original.svg">
    <!-- <img align="center" alt="Kevin-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"> -->
    <!-- <img align="center" alt="Kevin-Prometheus" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg"> -->
-    
+   
+   <!-- Cloud Computing -->
+  
+  <img align="center" alt="Kevin-OCI" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/oci-original.svg">
+  <!-- <img align="center" alt="Kevin-AWS" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/aws-original.svg"> -->
+  <!-- <img align="center" alt="Kevin-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> -->
+  
+  <!-- Infraestrutura como Código -->
+  
+  <!-- <img align="center" alt="Kevin-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"> -->
+  <!-- <img align="center" alt="Kevin-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"> -->
+  <!-- <img align="center" alt="Kevin-Packer" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/packer/packer-original.svg"> -->
+  <!-- <img align="center" alt="Kevin-Vault" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/vault-original.svg"> -->
+   
 </div>
 
 
