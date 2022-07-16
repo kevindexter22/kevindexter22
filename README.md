@@ -1,3 +1,5 @@
+<h6 align="right">Idiomas: <a href="">Português</a> ou <a href="">inglês</a></h6>
+
 <h1 align="center">Seja Bem Vindo!</h1>
 
 <p align="center">Sou estudante de Engenharia da Computação pela UNIVESP (Universidade Virtual do Estado de São Paulo).<br>
