@@ -1,4 +1,4 @@
-<h6 align="right">Idiomas: <a href="https://github.com/kevindexter22/kevindexter22/blob/main/README.md">Português</a> ou <a href="https://github.com/kevindexter22/kevindexter22/blob/main/README2.md">inglês</a></h6>
+<h6 align="right">Idiomas: <a href="https://github.com/kevindexter22/kevindexter22/blob/main/README.md">🇧🇷 Português</a>  <a href="https://github.com/kevindexter22/kevindexter22/blob/main/README2.md">🇬🇧 Inglês</a></h6>
 
 <h1 align="center">Seja Bem Vindo!</h1>
 
