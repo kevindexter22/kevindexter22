@@ -73,6 +73,16 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
      
 </div>
 
+##
+
+<h3 align="center">Contatos:</h3>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/kevin-oliveira-95b77413a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>  <a href="https://discord.gg/hDbUd9Zdtk" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer"></a>    
+
+</div>
+
 <!--
 **kevindexter22/kevindexter22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
