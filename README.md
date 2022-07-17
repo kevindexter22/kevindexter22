@@ -41,7 +41,7 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
    <img align="center" alt="Kevin-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="Kevin-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
    <img align="center" alt="Kevin-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-   <!-- <img align="center" alt="Kevin-YAML" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/yaml-original.svg"> -->
+   <img align="center" alt="Kevin-YAML" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/yaml-original.svg">
    
   <!-- Frameworks -->
   
