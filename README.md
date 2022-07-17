@@ -20,7 +20,7 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
   
   ## 
   
-  <h3 align="center">🇬🇧 Knowledges / 🇧🇷 Conhecimentos:</h3>  
+  <h3 align="center">🇬🇧 Knowledges / 🇧🇷 Conhecimentos:</h3><br>  
   
   <!-- Technologies and Languages that I Work -->
 
@@ -82,7 +82,7 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
 
 ##
 
-<h3 align="center">🇬🇧 Contacts / 🇧🇷 Contatos:</h3>
+<h3 align="center">🇬🇧 Contacts / 🇧🇷 Contatos:</h3><br>
 
 <div align="center">
 
