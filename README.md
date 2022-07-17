@@ -1,4 +1,4 @@
-<h1 align="center">🇬🇧 Welcome!  🇧🇷 Seja Bem Vindo!</h1>
+<h1 align="center">🇬🇧 Welcome!  🇧🇷 Bem-Vindo!</h1>
 
 <p align="center">🇬🇧 I am a Computer Engineering student at UNIVESP (Virtual University of the State of São Paulo).<br>
 I currently work as a Technical Technology Analyst at the HeadEnd of a telecommunications company and I am always looking for new knowledges.</p><br>
