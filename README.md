@@ -1,12 +1,14 @@
 <h1 align="center">🇬🇧 Welcome!  🇧🇷 Seja Bem Vindo!</h1>
 
 <p align="center">🇬🇧 I am a Computer Engineering student at UNIVESP (Virtual University of the State of São Paulo).<br>
-I currently work as a Technical Technology Analyst at the HeadEnd of a telecommunications company and I am always looking for new knowledges.</p>
-
-##
+I currently work as a Technical Technology Analyst at the HeadEnd of a telecommunications company and I am always looking for new knowledges.</p><br>
 
 <p align="center">🇧🇷 Sou estudante de Engenharia da Computação pela UNIVESP (Universidade Virtual do Estado de São Paulo).<br>
 Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa de telecomunicações e <br>estou sempre em busca de obter novos conhecimentos.</p><br>
+
+##
+
+<h3 align="center"> 🇬🇧 Github Stats / 🇧🇷 Estatísticas do Github:</h3><br>
 
 <!-- Commit and Used Languages -->
 
