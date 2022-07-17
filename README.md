@@ -100,3 +100,5 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
 
 - 🇬🇧 My areas of interests are DevOps, Observability, Infrastructure, Cybersecurity, Programming, IoT and related  
   🇧🇷 Minhas áreas de interesse são DevOps, Observabilidade, Infraestrutura, Cibersegurança, Programação, IoT e relacionadas.
+  
+ - 🇬🇧 I love to learn new things and share knowledge / 🇧🇷 Adoro aprender coisas novas e compartilhar conhecimento. 
