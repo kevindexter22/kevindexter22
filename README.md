@@ -1,11 +1,14 @@
-<h6 align="right">Idiomas: <a href="https://github.com/kevindexter22/kevindexter22/blob/main/README.md">🇧🇷 Português</a>  <a href="https://github.com/kevindexter22/kevindexter22/blob/main/README2.md">🇬🇧 Inglês</a></h6>
+<h1 align="center">Welcome! Seja Bem Vindo!</h1>
 
-<h1 align="center">Seja Bem Vindo!</h1>
+<p align="center">🇬🇧 I am a Computer Engineering student at UNIVESP (Virtual University of the State of São Paulo).<br>
+I currently work as a Technical Technology Analyst at the HeadEnd of a telecommunications company and I am always looking for new knowledges.</p>
 
-<p align="center">Sou estudante de Engenharia da Computação pela UNIVESP (Universidade Virtual do Estado de São Paulo).<br>
+##
+
+<p align="center">🇧🇷 Sou estudante de Engenharia da Computação pela UNIVESP (Universidade Virtual do Estado de São Paulo).<br>
 Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa de telecomunicações e <br>estou sempre em busca de obter novos conhecimentos.</p><br>
 
-<!-- Commit e Linguagens mais Usadas -->
+<!-- Commit and Used Languages -->
 
 <div align="center">
   <a href="https://github.com/kevindexter22">
@@ -15,9 +18,9 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
   
   ## 
   
-  <h3 align="center">Conhecimentos:</h3>  
+  <h3 align="center">🇬🇧 Knowledges / 🇧🇷 Conhecimentos:</h3>  
   
-  <!-- Tecnologias e Linguagens que trabalho -->
+  <!-- Technologies and Languages that I Work -->
 
 <div style="display: inline_block" align="center">
 
@@ -26,7 +29,7 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
   <img align="center" alt="Kevin-Debian" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg">
   <img align="center" alt="Kevin-Ubuntu" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg">
 
-  <!-- Linguagens de Programação -->
+  <!-- Languages -->
   
   <img align="center" alt="Kevin-Bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
    <!-- <img align="center" alt="Kevin-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> -->
@@ -42,11 +45,11 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
   
   <img align="center" alt="Kevin-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   
-  <!-- Banco de Dados -->
+  <!-- Databases -->
   
   <img align="center" alt="Kevin-MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg">
   
-  <!-- Conteinerização -->
+  <!-- Containerization -->
   
   <img align="center" alt="Kevin-Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <!-- <img align="center" alt="Kevin-Kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg"> -->
@@ -54,7 +57,7 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
   <!-- <img align="center" alt="Kevin-Nomad" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/nomad-original.svg"> -->
   <!-- <img align="center" alt="Kevin-Podman" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/podman/podman-original.svg"> -->
   
-   <!-- Monitoramento -->
+   <!-- Monitoring -->
   
   <img align="center" alt="Kevin-Zabbix" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/zabbix-original.svg">
    <!-- <img align="center" alt="Kevin-Grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg"> -->
@@ -66,7 +69,7 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
   <!-- <img align="center" alt="Kevin-AWS" height="30" width="40" src="https://github.com/kevindexter22/icons/blob/main/aws-original.svg"> -->
   <!-- <img align="center" alt="Kevin-Azure" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg"> -->
   
-  <!-- Infraestrutura como Código -->
+  <!-- Infra as Code -->
   
   <!-- <img align="center" alt="Kevin-Terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg"> -->
   <!-- <img align="center" alt="Kevin-Ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg"> -->
@@ -77,7 +80,7 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
 
 ##
 
-<h3 align="center">Contatos:</h3>
+<h3 align="center">🇬🇧 Contacts / 🇧🇷 Contatos:</h3>
 
 <div align="center">
 
