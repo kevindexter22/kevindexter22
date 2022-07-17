@@ -96,7 +96,7 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
 
 - 🇬🇧 I'm currently working on Conectcor Telecom / 🇧🇷 Estou trabalhando, atualmente, na Conectcor Telecom.
 
-- 🇬🇧 I'm learning Kubernetes and AWS / 🇧🇷 Estou estudando Kubernetes e AWS.
+- 🇬🇧 I'm learning Kubernetes / 🇧🇷 Estou estudando Kubernetes.
 
 - 🇬🇧 My areas of interests are DevOps, Observability, Infrastructure, Cybersecurity, Programming, IoT and related  
   🇧🇷 Minhas áreas de interesse são DevOps, Observabilidade, Infraestrutura, Cibersegurança, Programação, IoT e relacionadas.
