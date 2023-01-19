@@ -94,7 +94,7 @@ Atualmente atuo como Analista Técnico de Tecnologia no HeadEnd de uma empresa d
 
 <h3 align="center">🇬🇧 More about me / 🇧🇷 Mais sobre mim:</h3><br>
 
-- 🇬🇧 I'm currently working on Conectcor Telecom / 🇧🇷 Estou trabalhando, atualmente, na Conectcor Telecom.
+- 🇬🇧 I'm currently working on Americanet / 🇧🇷 Estou trabalhando, atualmente, na Americanet.
 
 - 🇬🇧 I'm learning Kubernetes / 🇧🇷 Estou estudando Kubernetes.
 
