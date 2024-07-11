@@ -14,8 +14,8 @@
 
 ### Ferramentas e technologies
 
-[GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/)
-
-
+<div align="left">
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+</div>
 
 ##
