@@ -1,10 +1,10 @@
 <h1 align="center">🇬🇧 Welcome!  🇧🇷 Bem-Vindo!</h1>
 
 <p align="left">🇬🇧 I am a Computer Engineer with over 10 years of experience in Telecommunications, specializing in headend operation, data center management, and monitoring with Zabbix. I have expertise in implementing and maintaining infrastructure, installing and aligning C-band and KU-band satellite antennas, configuring IRDs, encoders, transcoders, multiplexers, and monitoring systems.<br><br>
-My work involves solving complex problems and optimizing structures, always focusing on efficiency and quality. I am passionate about technology and currently developing skills in networking. I enjoy taking on new challenges and collaborating on projects and teams to achieve outstanding results.</p><br>
+My work involves solving complex problems and optimizing structures, always focusing on efficiency and quality. I am passionate about technology and currently developing skills in networking.<br><br>I enjoy taking on new challenges and collaborating on projects and teams to achieve outstanding results.</p><br>
 
 <p align="left">🇧🇷 Sou Engenheiro de Computação com mais de 10 anos de experiência em Telecomunicações, especializado em operação de headend, data center e monitoramento com Zabbix. Tenho expertise em implementação e manutenção de infraestrutura, instalação e apontamento de antenas Banda C e KU, e configuração de IRDs, encoders, transcoders, multiplexers e sistemas de monitoramento.<br><br>
-Minha atuação envolve solução de problemas complexos e otimização de estruturas, sempre focando em eficiência e qualidade. Sou apaixonado por tecnologia, e estou atualmente desenvolvendo competências em redes. Gosto de enfrentar novos desafios e colaborar com projetos e equipes para alcançar resultados excepcionais.</p>
+Minha atuação envolve solução de problemas complexos e otimização de estruturas, sempre focando em eficiência e qualidade. Sou apaixonado por tecnologia, e estou atualmente desenvolvendo competências em redes.<br><br>Gosto de enfrentar novos desafios e colaborar com projetos e equipes para alcançar resultados excepcionais.</p>
 
 ## 
   
