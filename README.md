@@ -56,5 +56,3 @@
 <img src="https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white" alt="YAML" />
 <img src="https://img.shields.io/badge/ZABBIX-red?style=for-the-badge" alt="Zabbix" />
 </div>
-
-##
