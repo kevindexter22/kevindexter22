@@ -12,6 +12,10 @@
     
 ##
 
-### Ferramentas e tecnologias
+### Ferramentas e technologies
+
+[![Linux O.S.](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/)]
+
+[![Linux O.S.](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black/)]
 
 ##
