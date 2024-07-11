@@ -3,8 +3,8 @@
 <p align="center">🇬🇧 I am a Computer Engineering student at UNIVESP (Virtual University of the State of São Paulo).<br>
 I currently work as a Network Analyst in a telecommunications company and I am always looking for new knowledges.</p><br>
 
-<p align="center">🇧🇷 Sou estudante de Engenharia da Computação pela UNIVESP (Universidade Virtual do Estado de São Paulo).<br>
-Atualmente atuo como Analista de Redes em uma empresa de telecomunicações e <br>estou sempre em busca de obter novos conhecimentos.</p>
+<p align="center">🇧🇷 Sou Engenheiro de Computação com mais de 10 anos de experiência em Telecomunicações, especializado em operação de headend, data center e monitoramento com Zabbix. Tenho expertise em implementação e manutenção de infraestrutura, instalação e apontamento de antenas Banda C e KU, e configuração de IRDs, encoders, transcoders, multiplexers e sistemas de monitoramento.<br>
+Minha atuação envolve solução de problemas complexos e otimização de estruturas, sempre focando em eficiência e qualidade. Sou apaixonado por tecnologia, e estou atualmente desenvolvendo competências em redes. Gosto de enfrentar novos desafios e colaborar com projetos e equipes para alcançar resultados excepcionais.</p>
 
 ##
 
