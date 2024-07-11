@@ -12,6 +12,6 @@
     
 ##
 
-### Ferramentas e technologies
+### Ferramentas e tecnologias
 
 ##
