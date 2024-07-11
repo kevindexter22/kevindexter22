@@ -1,16 +1,12 @@
 # Oi, sou Kevin Oliveira
 
-<p align="left">Sou Engenheiro de Computação com mais de 10 anos de experiência em Telecomunicações.<br><br>
-Sou apaixonado por tecnologia, e estou atualmente desenvolvendo competências em redes.<br><br>
-Gosto de enfrentar novos desafios e colaborar com projetos e equipes para alcançar resultados excepcionais.</p>
-
-<div align="left">
+<!-- <div align="left">
 
 <!-- Linkedin --> <a href="https://www.linkedin.com/in/kevinoliveira94/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>  <!-- Gmail --> <!-- <a href="mailto:" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a> --!>   <!-- Discord --> <!-- <a href="https://discord.gg/hDbUd9Zdtk" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer"></a>  -->  
 
 ##
 
-</div>
+</div> 
 
 <!-- Commit and Used Languages -->
 
