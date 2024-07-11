@@ -77,7 +77,7 @@ Minha atuação envolve solução de problemas complexos e otimização de estru
 
 <div align="center">
 
-<!-- Linkedin --> <a href="https://www.linkedin.com/in/kevin-oliveira-95b77413a/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>  <!-- Gmail --> <!-- <a href="mailto:" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a> --!>   <!-- Discord --> <!-- <a href="https://discord.gg/hDbUd9Zdtk" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer"></a>  -->  
+<!-- Linkedin --> <a href="https://www.linkedin.com/in/kevinoliveira94/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" rel="noopener noreferrer"></a>  <!-- Gmail --> <!-- <a href="mailto:" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" rel="noopener noreferrer"></a> --!>   <!-- Discord --> <!-- <a href="https://discord.gg/hDbUd9Zdtk" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank" rel="noopener noreferrer"></a>  -->  
 
 </div>
 
