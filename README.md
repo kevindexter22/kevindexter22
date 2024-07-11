@@ -60,19 +60,6 @@ Minha atuação envolve solução de problemas complexos e otimização de estru
 
 ##
 
-<h3 align="center">🇬🇧 More about me / 🇧🇷 Mais sobre mim:</h3><br>
-
-- 🇬🇧 I'm currently working on Americanet / 🇧🇷 Estou trabalhando, atualmente, na Americanet.
-
-- 🇬🇧 I'm learning Kubernetes / 🇧🇷 Estou estudando Kubernetes.
-
-- 🇬🇧 My areas of interests are DevOps, Observability, Infrastructure, Cybersecurity, Programming, IoT and related  
-  🇧🇷 Minhas áreas de interesse são DevOps, Observabilidade, Infraestrutura, Cibersegurança, Programação, IoT e relacionadas.
-  
- - 🇬🇧 I love to learn new things and share knowledge / 🇧🇷 Adoro aprender coisas novas e compartilhar conhecimento.
-
-##
-
 <h3 align="center">🇬🇧 Contacts / 🇧🇷 Contatos:</h3><br>
 
 <div align="center">
