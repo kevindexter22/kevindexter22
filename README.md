@@ -53,6 +53,7 @@
 <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white" alt="VMWare" />
 <img src="https://img.shields.io/badge/WireGuard-88171A.svg?style=for-the-badge&logo=WireGuard&logoColor=white" alt="WireGuard" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"/>
+<img src="https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white" alt="YAML" />
 <img src="https://img.shields.io/badge/ZABBIX-red?style=for-the-badge" alt="Zabbix" />
 </div>
 
