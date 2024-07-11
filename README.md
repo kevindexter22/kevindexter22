@@ -49,7 +49,7 @@
 <img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/WireGuard-88171A.svg?style=for-the-badge&logo=WireGuard&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Zabbix-white?style=flat&logoColor=red"/>
+<img src="https://img.shields.io/badge/Zabbix-red?style=for-the-badge" alt="Zabbix" />
 </div>
 
 ##
