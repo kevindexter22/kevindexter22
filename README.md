@@ -29,11 +29,26 @@
 <!-- <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white"/> -->
 <!-- <img src="https://img.shields.io/badge/Mikrotik-293239.svg?style=for-the-badge&logo=Mikrotik&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black"/>
+<!-- <img src="https://img.shields.io/badge/NGINX-009639.svg?style=for-the-badge&logo=NGINX&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Nomad-00CA8E.svg?style=for-the-badge&logo=Nomad&logoColor=white"/> --> 
+<!-- <img src="https://img.shields.io/badge/OBS%20Studio-302E31.svg?style=for-the-badge&logo=OBS-Studio&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/Oracle-F80000.svg?style=for-the-badge&logo=Oracle&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/pfSense-212121.svg?style=for-the-badge&logo=pfSense&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/PHP-777BB4.svg?style=for-the-badge&logo=PHP&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Pihole-96060C.svg?style=for-the-badge&logo=Pi-hole&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Podman-892CA0.svg?style=for-the-badge&logo=Podman&logoColor=white"/> -->
+<!-- <img src="https://img.shields.io/badge/Prometheus-E6522C.svg?style=for-the-badge&logo=Prometheus&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/Proxmox-E57000.svg?style=for-the-badge&logo=Proxmox&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/Scratch-4D97FF.svg?style=for-the-badge&logo=Scratch&logoColor=white"/> -->
 <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 <!-- <img src="https://img.shields.io/badge/tmux-1BB91F?style=for-the-badge&logo=tmux&logoColor=white"/> -->  
 <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white"/>
+<img src="https://img.shields.io/badge/VMware-607078.svg?style=for-the-badge&logo=VMware&logoColor=white"/>
+<!-- <img src="https://img.shields.io/badge/WireGuard-88171A.svg?style=for-the-badge&logo=WireGuard&logoColor=white"/> -->
+<img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white"/>
 </div>
 
 ##
