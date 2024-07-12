@@ -8,7 +8,9 @@
 ##
 <!-- Commit and Used Languages -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindexter22&hide=contribs,prs&count_private=true&show_icons=true&theme=radical&include_all_commits)](https://github.com/kevindexter22/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevindexter22&layout=compact&theme=radical)](https://github.com/kevindexter22/github-readme-stats)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindexter22&count_private=true&show_icons=true&theme=radical&include_all_commits)](https://github.com/kevindexter22/github-readme-stats)
 
 
     
