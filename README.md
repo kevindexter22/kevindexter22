@@ -8,7 +8,7 @@
 ##
 <!-- Commit and Used Languages -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindexter22&hide=contribs,prs&count_private=true)](https://github.com/kevindexter22/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kevindexter22&hide=contribs,prs&count_private=true&show_icons=true&theme=radical)](https://github.com/kevindexter22/github-readme-stats)
 
 
     
