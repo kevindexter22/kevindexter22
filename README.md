@@ -8,12 +8,8 @@
 ##
 <!-- Commit and Used Languages -->
 
-![](https://raw.githubusercontent.com/kevindexter22/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kevindexter22/github-stats/master/generated/overview.svg#gh-light-mode-only)
-
-
 <div align="left">
-  <a href="https://github.com/kevindexter22">
+  <a href="https://github.com/kevindexter22"></a>
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=kevindexter22&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kevindexter22&layout=compact&langs_count=10&theme=dark"/>
  </div>
