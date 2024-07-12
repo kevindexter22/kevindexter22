@@ -1,4 +1,4 @@
-<h6 align="right">Leia esta página em <a href="https://github.com/kevindexter22/kevindexter22/blob/main/README2.md" target="_blank" rel="noopener noreferrer">🇬🇧 Inglês</a></h6>
+<h6 align="right">Leia esta página em <a href="https://github.com/kevindexter22/kevindexter22/blob/main/README_ENG.md" target="_blank" rel="noopener noreferrer">🇬🇧 Inglês</a></h6>
 
 # Oi, eu sou Kevin Oliveira
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/kevinoliveira94/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/)](http://medium.com/@KevinOliveira94/) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/KevinOliveira94) [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white/)](https://github.com/kevindexter22/)
