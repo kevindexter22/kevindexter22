@@ -63,7 +63,7 @@ Engenheiro de Computação apaixonado por tecnologia e infraestrutura de Telecom
 ### 📂 Principais Projetos
 
 #### 🏠 [Homelab & Automação](#)
-Focado em infraestrutura real, virtualização com **Proxmox/Linux**, IoT e observabilidade aplicada. Centralizo aqui soluções de servidores domésticos, monitoramento de ativos e automação residencial.
+Focado em infraestrutura real, virtualização com **Proxmox**, IoT e observabilidade aplicada. Centralizo aqui soluções de servidores domésticos, monitoramento de ativos e automação residencial.
 
 #### 🌐 [Redes & OSS (Labs Virtualizados)](#)
 Habilidades desenvolvidas em ambientes de simulação como **PNETLab**, **Packet Tracer** e **VirtualBox**. Aqui demonstro topologias complexas, protocolos de roteamento e sistemas de suporte à operação (OSS) testados em laboratório.
