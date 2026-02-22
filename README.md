@@ -76,7 +76,7 @@ Repositório de scripts, automações e configurações críticas que desenvolvi
 ### 🚀 Sobre meu trabalho
 * **Expertise:** Infraestrutura de Telecom, Headend, Transcoding e Monitoramento.
 * **Foco Atual:** Evoluindo para Redes com foco em **OSS** e práticas modernas de operação.
-* **Mindset:** *"Se pode ser monitorado, deve ser monitorado. Se pode ser otimizado, será."*
+<!-- * **Mindset:** *"."* -->
 
 ⚡ Sempre em busca de novos desafios e colaborações em projetos de impacto.
 
