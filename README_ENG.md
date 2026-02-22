@@ -75,7 +75,7 @@ A repository for scripts, automation, and critical configurations developed duri
 ### 🚀 About my work
 * **Expertise:** Telecom Infrastructure, Headend, Transcoding, and Monitoring.
 * **Current Focus:** Evolving into Networking with a focus on **OSS** and modern operation practices.
-* **Mindset:** *"If it can be monitored, it should be monitored. If it can be optimized, it will be."*
+<!-- * **Mindset:** *"."* -->
 
 ⚡ Always looking for new challenges and collaboration on high-impact projects.
 
