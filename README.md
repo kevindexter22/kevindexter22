@@ -1,4 +1,4 @@
-<h6 align="right">Read this page in <a href="https://github.com/kevindexter22/kevindexter22/blob/main/README_ENG.md" target="_blank" rel="noopener noreferrer">🇬🇧 english</a></h6>
+<h6 align="right">Leia essa página em <a href="https://github.com/kevindexter22/kevindexter22/blob/main/README_ENG.md" target="_blank" rel="noopener noreferrer">🇬🇧 Inglês</a></h6>
 
 # 👋 Oi, eu sou Kevin Oliveira!
 
