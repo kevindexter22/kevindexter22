@@ -73,7 +73,7 @@ Repositório de scripts, automações e configurações críticas que desenvolvi
 
 ##
 
-### 💻 Scripts e Ferramentas
+### >_ Scripts e Ferramentas
 
 ##
 
