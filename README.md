@@ -73,6 +73,10 @@ Repositório de scripts, automações e configurações críticas que desenvolvi
 
 ##
 
+### 💻 Scripts e Ferramentas
+
+##
+
 ### 🚀 Sobre meu trabalho
 * **Expertise:** Infraestrutura de Telecom, Headend, Transcoding e Monitoramento.
 * **Foco Atual:** Evoluindo para Redes com foco em **OSS** e práticas modernas de operação.
