@@ -6,7 +6,7 @@ Engenheiro de Computação apaixonado por tecnologia e infraestrutura de Telecom
 
 **Há mais de uma década**, atuo na linha de frente de **Headends** e **Data Centers**, cuidando desde o apontamento físico de antenas até o ajuste fino de sistemas de monitoramento com **Zabbix**.
 
----
+##
 
 ### 🛠️ Ferramentas e tecnologias
 
@@ -58,7 +58,7 @@ Engenheiro de Computação apaixonado por tecnologia e infraestrutura de Telecom
 <!-- <img src="https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white" alt="YAML" /> -->
 </div>
 
----
+##
 
 ### 📂 Principais Projetos
 
@@ -71,7 +71,7 @@ Habilidades desenvolvidas em ambientes de simulação como **PNETLab**, **Packet
 #### 📡 [Legado Telecom & Headend](#)
 Repositório de scripts, automações e configurações críticas que desenvolvi durante minha trajetória com Headends, processamento de vídeo e infraestrutura de transmissão.
 
----
+##
 
 ### 🚀 Sobre meu trabalho
 * **Expertise:** Infraestrutura de Telecom, Headend, Transcoding e Monitoramento.
@@ -80,7 +80,7 @@ Repositório de scripts, automações e configurações críticas que desenvolvi
 
 ⚡ Sempre em busca de novos desafios e colaborações em projetos de impacto.
 
----
+##
 
 ### 📫 Vamos trocar uma ideia?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white/)](https://www.linkedin.com/in/kevinoliveira94/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white/)](http://medium.com/@KevinOliveira94/) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/KevinOliveira94)
