@@ -6,7 +6,7 @@ Computer Engineer passionate about technology and Telecom infrastructure.
 
 **With over a decade of experience**, I work on the front lines of **Headends** and **Data Centers**, managing everything from satellite dish alignment (C/KU Band) to fine-tuning **Zabbix** monitoring systems.
 
----
+##
 
 ### 🛠️ Tools and Technologies
 
@@ -57,7 +57,8 @@ Computer Engineer passionate about technology and Telecom infrastructure.
 <img src="https://img.shields.io/badge/Wireshark-1679A7.svg?style=for-the-badge&logo=Wireshark&logoColor=white" alt="Wireshark"/>
 <!-- <img src="https://img.shields.io/badge/YAML-CB171E.svg?style=for-the-badge&logo=YAML&logoColor=white" alt="YAML" /> -->
 </div>
----
+
+##
 
 ### 📂 Main Projects
 
@@ -70,7 +71,7 @@ Skills developed in simulation environments such as **PNETLab**, **Packet Tracer
 #### 📡 [Telecom & Headend Legacy](#)
 A repository for scripts, automation, and critical configurations developed during my career with Headends, video processing, and transmission infrastructure.
 
----
+##
 
 ### 🚀 About my work
 * **Expertise:** Telecom Infrastructure, Headend, Transcoding, and Monitoring.
@@ -79,7 +80,9 @@ A repository for scripts, automation, and critical configurations developed duri
 
 ⚡ Always looking for new challenges and collaboration on high-impact projects.
 
----
+##
 
 ### 📫 Let's talk!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kevinoliveira94/) [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](http://medium.com/@KevinOliveira94/) [![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/KevinOliveira94)
+
+##
