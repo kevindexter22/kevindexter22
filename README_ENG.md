@@ -66,7 +66,7 @@ Computer Engineer passionate about technology and Telecom infrastructure.
 Focused on real infrastructure, virtualization with **Proxmox**, IoT, and applied observability. This is where I centralize home server solutions, asset monitoring, and home automation.
 
 #### 🌐 [Networking & OSS (Virtualized Labs)](#)
-Skills developed in simulation environments such as **PNETLab**, **Packet Tracer**, and **VirtualBox**. Here I demonstrate complex topologies, routing protocols, and Operations Support Systems (OSS) tested in lab settings.
+Skills developed in simulation environments such as **PNETLab**, **Packet Tracer**, and **VirtualBox**. Here I demonstrate topologies, routing protocols, and Operations Support Systems (OSS) tested in lab settings.
 
 #### 📡 [Telecom & Headend Legacy](#)
 A repository for scripts, automation, and critical configurations developed during my career with Headends, video processing, and transmission infrastructure.
