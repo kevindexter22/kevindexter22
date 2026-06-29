@@ -69,7 +69,7 @@ Focused on real infrastructure, virtualization with **Proxmox**, IoT, and applie
 Skills developed in simulation environments such as **PNETLab**, **Packet Tracer**, and **VirtualBox**. Here I demonstrate topologies, routing protocols, and Operations Support Systems (OSS) tested in lab settings.
 
 #### 📡 [Telecom & Headend Legacy](#)
-A repository for scripts, automation, and critical configurations developed during my career with Headends, video processing, and transmission infrastructure.
+A repository for scripts, automation, and critical configurations used during my career with Headends, video processing, and transmission infrastructure.
 
 ##
 
