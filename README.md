@@ -69,7 +69,7 @@ Focado em infraestrutura real, virtualização com **Proxmox**, IoT e observabil
 Habilidades desenvolvidas em ambientes de simulação como **PNETLab**, **Packet Tracer** e **VirtualBox**. Aqui demonstro topologias, protocolos de roteamento e sistemas de suporte à operação (OSS) testados em laboratório.
 
 #### 📡 [Legado Telecom & Headend](#)
-Repositório de scripts, automações e configurações críticas que desenvolvi durante minha trajetória com Headends, processamento de vídeo e infraestrutura de transmissão.
+Repositório de scripts, automações e configurações críticas que utilisei durante minha trajetória com Headends, processamento de vídeo e infraestrutura de transmissão.
 
 ##
 
