@@ -62,7 +62,7 @@ Engenheiro de Computação apaixonado por tecnologia e infraestrutura de Telecom
 
 ### 📂 Principais Projetos
 
-#### 🏠 [Homelab & Automação](#) - 🚧 [Em Construção]
+#### 🏠 [Homelab & Automação](https://github.com/kevindexter22/Dr-Hardware-Autonet) - 🚧 [Em Construção]
 Focado em infraestrutura real, virtualização com **Proxmox**, IoT e observabilidade aplicada. Centralizo aqui soluções de servidores domésticos, monitoramento de ativos e automação residencial.
 
 #### 🛠️ [Scripts & Automações Diárias](#) - ⏳ [Em Breve]
