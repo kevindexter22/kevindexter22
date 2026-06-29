@@ -65,6 +65,9 @@ Computer Engineer passionate about technology and Telecom infrastructure.
 #### 🏠 [Homelab & Automation](#) - 🚧 [Work in Progress]
 Focused on real infrastructure, virtualization with **Proxmox**, IoT, and applied observability. This is where I centralize home server solutions, asset monitoring, and home automation.
 
+#### 🛠️ [Daily Scripts & Automation](#) - ⏳ [Coming Soon]
+Small scripts and tools to make daily tasks easier. A collection of useful snippets for system administration, quick setups, and repetitive tasks.
+
 #### 🌐 [Networking & OSS (Virtualized Labs)](#) - ⏳ [Coming Soon]
 Skills developed in simulation environments such as **PNETLab**, **Packet Tracer**, and **VirtualBox**. Here I demonstrate topologies, routing protocols, and Operations Support Systems (OSS) tested in lab settings.
 
